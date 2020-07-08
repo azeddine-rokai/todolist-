@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/todolist-/static/css/main.06a56685.chunk.css",
+    "main.js": "/todolist-/static/js/main.f4cb0393.chunk.js",
+    "main.js.map": "/todolist-/static/js/main.f4cb0393.chunk.js.map",
+    "runtime-main.js": "/todolist-/static/js/runtime-main.1baec6ec.js",
+    "runtime-main.js.map": "/todolist-/static/js/runtime-main.1baec6ec.js.map",
+    "static/css/2.ba963f73.chunk.css": "/todolist-/static/css/2.ba963f73.chunk.css",
+    "static/js/2.83b717d3.chunk.js": "/todolist-/static/js/2.83b717d3.chunk.js",
+    "static/js/2.83b717d3.chunk.js.map": "/todolist-/static/js/2.83b717d3.chunk.js.map",
+    "index.html": "/todolist-/index.html",
+    "precache-manifest.bc30c080a72ed763aab45e0a204c2f72.js": "/todolist-/precache-manifest.bc30c080a72ed763aab45e0a204c2f72.js",
+    "service-worker.js": "/todolist-/service-worker.js",
+    "static/css/2.ba963f73.chunk.css.map": "/todolist-/static/css/2.ba963f73.chunk.css.map",
+    "static/css/main.06a56685.chunk.css.map": "/todolist-/static/css/main.06a56685.chunk.css.map",
+    "static/js/2.83b717d3.chunk.js.LICENSE.txt": "/todolist-/static/js/2.83b717d3.chunk.js.LICENSE.txt",
+    "static/media/c-1.jpg": "/todolist-/static/media/c-1.917b7339.jpg",
+    "static/media/bootstrap.min.css": "/todolist-/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1baec6ec.js",
+    "static/css/2.ba963f73.chunk.css",
+    "static/js/2.83b717d3.chunk.js",
+    "static/css/main.06a56685.chunk.css",
+    "static/js/main.f4cb0393.chunk.js"
+  ]
+}
